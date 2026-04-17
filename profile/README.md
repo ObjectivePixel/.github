@@ -38,3 +38,17 @@
     </td>
   </tr>
 </table>
+
+---
+
+### Team
+
+<p>
+  <a href="https://github.com/clarkezone">
+    <img src="https://github.com/clarkezone.png" width="60" height="60" style="border-radius:50%" alt="clarkezone">
+  </a>
+  &nbsp;
+  <a href="https://github.com/G0ldenBraid">
+    <img src="https://github.com/G0ldenBraid.png" width="60" height="60" style="border-radius:50%" alt="G0ldenBraid">
+  </a>
+</p>
