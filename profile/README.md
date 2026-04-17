@@ -1,8 +1,8 @@
 
 
-<p align="center">
+<h2 align="center">
   Apple platform indie developer building high-quality apps for iPhone, iPad, Apple Watch, and Mac.
-</p>
+</h2>
 
 <p align="center">
   <a href="https://blog.objectivepixel.com/">Blog</a> · <a href="https://www.linkedin.com/company/objectivepixel/">LinkedIn</a> · <a href="https://www.objectivepixel.com/">Website</a>
