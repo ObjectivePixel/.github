@@ -1,6 +1,4 @@
-<h1 align="center">ObjectivePixel</h1>
 
-<p align="center"><em>Where science and art meet</em></p>
 
 <p align="center">
   Apple platform indie developer building high-quality apps for iPhone, iPad, Apple Watch, and Mac.
